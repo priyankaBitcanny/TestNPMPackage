@@ -1,0 +1,22 @@
+{
+  "name": "oaks-business-logic",
+  "version": "1.0.0",
+  "description": "business logics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankaBitcanny/TestNPMPackage.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Priyanka Sen <priyanka@bitcanny.com> (bitcanny.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priyankaBitcanny/TestNPMPackage/issues"
+  },
+  "homepage": "https://github.com/priyankaBitcanny/TestNPMPackage#readme"
+}
